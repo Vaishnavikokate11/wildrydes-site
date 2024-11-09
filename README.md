@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/36edc0d6-faf8-4ccb-8450-8c9ec3ecd131
+https://github.com/user-attachments/assets/f7b3c14d-7481-4ad4-8b88-d4fc7d3c6247
 
 # AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial
 
